@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sprint_M4</string>
+    <string name="btnBack">Volver</string>
+    <string name="btnVideo">Ver Video</string>
+    <string name="btnDescription">Ver Video</string>
+    <string name="product_text">Video de gatitos</string>
+    <string name="description_text">Gatitos graciosos y carismáticos.</string>
+    <string name="promo_text">Subimos tu video a la red!</string>
+
+
+
+</resources>
